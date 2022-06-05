@@ -24,7 +24,7 @@ static int[]broj_admina1 =new int [2];
 	/**
 	 * Launch the application.
 	 */
-	
+	//huuu
 	public static void pokretanje() {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
